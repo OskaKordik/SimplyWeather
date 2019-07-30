@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimplyWeather</string>
+    <string name="city_edit_hint">Введите название города ...</string>
+    <string name="show_weather">Показать погоду</string>
+    <string name="background_application">Фон приложения</string>
+</resources>

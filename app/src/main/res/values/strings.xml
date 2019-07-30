@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimplyWeather</string>
+    <string name="city_edit_hint">Enter city name ...</string>
+    <string name="show_weather">Show weather</string>
+    <string name="background_application">background_application</string>
+</resources>
